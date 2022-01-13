@@ -1,0 +1,141 @@
+body{
+    padding:50px;
+    margin: 50px;
+}
+
+h1{
+    font-family: monospace;
+   
+}
+
+.Dev-Joynal{
+    color:rgb(89, 199, 89);
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+
+section{
+    display: flex;
+}
+
+.one{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.One {
+    width: 60%;
+}
+
+.one img{
+    width: 80%;
+}
+
+a.link-button {
+background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.Dev-Joynal1{
+    color:yellow;
+    text-align: center;
+}
+
+h2.joy {
+    text-align: center;
+    font-size: 55px;
+}
+.leavel{
+   width: 33%;
+   background-color: aliceblue;
+   margin: auto;
+   padding: 10px;
+   border-radius: 20px;
+   padding: 10px 10px 20px;
+   margin-top: 10px;
+   border: 15px solid #fff;
+
+}
+.leave2{
+    margin-top: 10px;
+    width: 33%;
+    background: beige;
+    border-radius: 20px;
+    padding: 10px 10px 20px;
+    border: 15px solid #fff;
+    
+ }
+
+ .leave3{
+    margin-top: 10px;
+    width: 33%;
+    background: green;
+    border-radius: 20px;
+    padding: 10px 10px 20px;
+    border: 15px solid white;
+ }
+
+ footer {
+    text-align: center;
+    background-color: rgb(31, 231, 75);
+ 
+}
+.leavel img {
+    width: 30%;
+}
+.leave2 img{
+    width: 30%;
+}
+
+.leave2 img{
+    width: 30%;
+}
+.leave3 img {
+    width: 30%;
+}
+
+.leavel h1 {font-size: 30px;font-family: ui-rounded;font-style: inherit;font-weight: 500;}
+
+.leave2 h1 {font-size: 30px;font-family: ui-rounded;font-style: inherit;font-weight: 500;}
+
+.leave3 h1 {font-size: 30px;font-family: ui-rounded;font-style: inherit;font-weight: 500;}
+
+
+.vl {
+    border-left: 6px solid green;
+  
+  }
+
+.Dev-Joynal11{
+    color:blue;
+}
+
+.learn img {
+    width: 40%;
+    background-image: url();
+}
+
+.learn {
+    height: 200px;
+    padding: 20px;
+
+    
+}
+.earn h1 {
+    text-align: left;
+    
+}
+.last img{
+    width: 50%;
+}
+
+.id img{
+    width: 50%;
+}
